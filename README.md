@@ -5,4 +5,4 @@
 * Due to copyright reasons, the image dataset used for training is not shared here. However, URLs to images used are listed in '/Images/urls_russell_brand.csv' and '/Images/urls_jesus_christ.csv' respectively.
 * Acknowledgements to Jeremy Howard and everyone who makes [course.fast.ai](course.fast.ai) possible.
 
-<a name="footnote1">1</a>: among image classifiers **that distinguish Jesus Christ from Russell Brand**.
+<a name="footnote1">1</a>: only among image classifiers that distinguish Jesus Christ from Russell Brand.
